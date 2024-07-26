@@ -1,2 +1,6 @@
-hi
+hi!
 hello
+love
+hi!
+hello
+love
