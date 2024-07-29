@@ -22,3 +22,6 @@ _곤니찌와_
 __아리가또__
 ___고자이마스___
 ~~바이바이~~
+
+<https://cafe.naver.com/hicode>
+[Hello코딩놀이터](https://cafe.naver.com/hicode)
